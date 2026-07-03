@@ -7,7 +7,7 @@ I am a Python Developer and Data Scientist with hands-on experience in data anal
 
 ---
 
-## 🎓 Certifications & Credentials
+## 🎓 Certifications
 
 I have completed multiple certifications in Data Science, Python programming, and analytical thinking:
 
