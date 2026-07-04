@@ -38,8 +38,9 @@ I have completed multiple certifications in Data Science, Python programming, an
 ### 🚢 Titanic Survival Prediction
 Built a machine learning model to predict passenger survival using classification algorithms. Performed data cleaning, feature engineering, and model evaluation.
 
-### ✈️ British Airways Data Analysis Project
-Analyzed customer and business data to extract insights and identify patterns in airline service performance using Python and visualization tools.
+### ✈️ British Airways Customer Booking Prediction
+Developed a machine learning model to predict customer booking completion using customer behavior data. Performed data preprocessing, exploratory data analysis (EDA), feature engineering, model training, and evaluation to generate predictive insights.
+
 
 ### 🎬 Netflix Data Analysis Project
 Performed exploratory data analysis on Netflix dataset to understand content distribution, trends, and viewing categories using Python libraries.
